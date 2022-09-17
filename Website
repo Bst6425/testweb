@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>portfolio</title>
+  
+ 
+</head>
+
+<body>
+  <!--start header-->
+  <table border="0" width="100%" align="center"bgcolor="#00bfa6"cellpadding="5">
+    <tr>
+      <td>
+        <table border="0" width="100%"cellspacing="0"cellpadding="5">
+<tr>
+  
+
+   <td><a href="Aadhunik"><font color="#fff" size="6">Aadhunik</font></a></td>
+            <td width="20%">
+              <a href="#"></a>
+            </td>
+            <td>
+              <a href="home"><font color="#fff">home</font></a>
+            </td>
+            <td>
+              <a href="About"><font color="#fff">About</font></a>
+            </td>
+            <td>
+              <a href="services"><font color="#fff"><font color="#fff">services</font></a>
+            </td>
+          
+            <td>
+              <a href="contact us"><font color="#fff">contact us</font></a>
+            </td>
+              <td>
+              <a href="contact us"><font color="#fff">portfolio</font></a>
+            </td>
+              
+            </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  
+  <!--end header-->
+  
+  <!--start home-->
+  <table>
+    <tr>
+      <td>
+        <table border="0" cellpadding="15" width="100%">
+          <tr>
+            <td>
+              <h1>Hi,</h1>
+              <h1>I'm Awesome</h1>
+              <font size="4"> I'm a professional Web developer and graphic designer.I will create awesome website for  your business,work and portfolio,if you want</font>
+                <button type="">DOWNLOAD CV</button>
+            <button type="">HIRE ME</button>
+            </td>
+            <td>
+              <img src="/images /undraw_Personalization_re_grty (1).png" height="400">
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+ 
+  <!--end home-->
+  
+  <!-- start services-->
+  <table>
+    <tr>
+      <td>
+        <table border="0" bgcolor="#00bfa6" width="100%"align="center" cellpadding="15px">
+          <tr border="0"align="center" width="100%">
+            <td colspan="3">
+              <font size="6">SERVICES</font><br><hr align="center"width="13%">
+              <font size="4">these are our services 
+            </td>
+          </tr>
+          <tr align="center">
+            <td>
+              <img src="/images /1384014.png" width="30%"><br><br>
+              <font size="4">WEB DEVELOPMENT</font><br>
+              <font color="#fff">we provide services of web development means creating website for your business at affordable prices</font>
+                </td>
+                
+            <td><img src="/images /1384014.png" width="30%"><br><br>
+              <font size="4">WEB DEVELOPMENT</font><br>
+              <font color="#fff">we provide services of web development means creating website for your business at affordable prices</font></td>
+            <td><img src="/images /1384014.png" width="30%"><br><br>
+              <font size="4">WEB DEVELOPMENT</font><br>
+              <font color="#fff">we provide services of web development means creating website for your business at affordable prices</font></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  
+  
+  
+  <!-- end services-->
+  
+  <!-- start skills-->
+  <table width="100%">
+    <tr>
+      <td>
+        <table border="0" width="100%" align="center"cellpadding="15px">
+          <tr align="center">
+            <td colspan="2"><font>SKILLS</font><hr align="center" width="6%"></td></tr>
+          
+          <tr>
+            <td><label><font>HTML</font></label><br><progress value="95" max="100">95</progress></td>
+            <td><label><font>CSS</font></label><br><progress value="90" max="100">90</progress></td>
+          </tr>
+          
+          <tr
+          >
+          <td><label><font>JS</font></label><br><progress value="85" max="100">85</progress></td>
+            <td><label><font>PHYTHON</font></label><br><progress value="80" max="100">80</progress></td>
+          </tr>
+          
+        </table>
+      </td>
+    </tr>
+  </table>
+  
+  <!--end skills-->
+  
+  <!-- start team-->
+  <table width="100%">
+    <tr>
+      <td>
+        <table border="0" width="100%" align="center"cellpadding="15px">
+          <tr align="center">
+            <td colspan="3"><font>MEAT THE TEAM</font><hr align="center" width="6%"></td></tr>
+          
+          <tr align="center">
+            <td>
+              <img src="/images /4494465.png" alt=""width="30%"><br><br><font>Rahul</font><br><font> web developer</font>
+            </td>
+            <td><img src="/images /4494465.png" alt=""width="30%"><br><br><font>Rahul</font><br><font> web developer</font></td>
+            <td><img src="/images /4494465.png" alt=""width="30%"><br><br><font>Rahul</font><br><font> web developer</font></td>
+          </tr>
+      </td>
+    </tr>
+  </table>
+  
+  <!--end team-->
+  <!-- start contact us-->
+  <form>
+    <table width="100%">
+      <tr>
+        <td>
+    <table bgcolor="#00bfa6"border="0" align="center" width="100%"cellpadding="15px">
+     <tr align="center">
+            <td colspan="2"><font>CONTACT US</font><hr align="center" width="10%"></td></tr>
+         <tr align="center">
+           <td><font color="#fff" size="5">Name</font></td>
+           <td><input type="text"></td>
+         </tr>   
+             <tr align="center">
+           <td><font color="#fff" size="5">Address</font></td>
+           <td><input type="text"></td>
+           <tr align="center">
+             <td><font color="#fff"size="5">Mobile no</font></td>
+             <td><input type="tel"></td>
+           </tr>
+          <!-- <tr align="center">
+             <td><font>password</td>
+             <td><input type="password"></td>
+           </tr>-->
+           <tr align="center">
+             <td><font size="5" color="#fff">Your query</td>
+             <td><textarea name="" id="" cols="15" rows="5"></textarea>"></td>
+           </tr>
+         </tr>   
+            
+            
+            
+    </td></tr></table></td>
+      </tr>
+    </table>
+  </form>
+  
+  <!-- end contact us-->
+  
+ 
+</body>
+</html>
